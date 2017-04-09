@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<multisample name="4chim">
+   <generator>Bitwig Studio</generator>
+   <category/>
+   <creator>Lxegs</creator>
+   <description/>
+   <layer name="Default">
+      <sample file="4chim.wav" gain="1.00" sample-start="0.000" sample-stop="217460.000">
+         <key high="59" low="48" root="60" track="false" tune="0.12"/>
+         <velocity high="100" low="50"/>
+         <loop mode="sustain" start="0.000" stop="217460.000"/>
+      </sample>
+   </layer>
+   <layer name="Default"/>
+</multisample>
